@@ -2,6 +2,12 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/shay.WOSHAYNI/Documents/NetBeansProjects/PMSv3.0/web/PMS/registerqueue.jsp</file>
+            <file>file:/C:/Users/shay.WOSHAYNI/Documents/NetBeansProjects/PMSv3.0/web/PMS/deletePMSQueue.jsp</file>
+            <file>file:/C:/Users/shay.WOSHAYNI/Documents/NetBeansProjects/PMSv3.0/web/PMS/searchPatient.jsp</file>
+            <file>file:/C:/Users/shay.WOSHAYNI/Documents/NetBeansProjects/PMSv3.0/web/PMS/registrationV2.jsp</file>
+            <file>file:/C:/Users/shay.WOSHAYNI/Documents/NetBeansProjects/PMSv3.0/web/PMS/libraries/lib/js/OPMain.js</file>
+        </group>
     </open-files>
 </project-private>
